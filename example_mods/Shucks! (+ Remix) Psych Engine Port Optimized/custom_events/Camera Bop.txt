@@ -1,0 +1,14 @@
+O que faz:
+Este evento aplica um efeito de zoom ("bop") na câmera de forma repetitiva, sincronizado com os steps da música. Ideal para criar efeitos de impacto durante o ritmo.
+
+Parâmetros:
+- cameraType: "hud", "game" ou "both"
+  -> Define qual câmera será afetada pelo zoom.
+- enabled: true / false
+  -> Ativa ou desativa o efeito.
+- interval: número inteiro (ex: 4)
+  -> Define a frequência do bop (a cada quantos steps).
+- offset: número inteiro
+  -> Quantos steps esperar antes de começar.
+- intensity: número decimal (ex: 0.05)
+  -> Define a intensidade do zoom.

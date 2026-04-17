@@ -1,0 +1,9 @@
+value1 
+x
+
+value2 
+y,Instant,tweenType,tweenType2,duration
+
+Instant
+true = tween
+false = nao

@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-63
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-153,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				70
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "ml",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				70
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "mu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				33
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "mr",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				58
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "md",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/marvin-shucks-run",
+	"position": [
+		-460,
+		-140
+	],
+	"healthicon": "marvin-shucks-bloody",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		31,
+		24
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4,
+	"_editor_isPlayer": true
+}

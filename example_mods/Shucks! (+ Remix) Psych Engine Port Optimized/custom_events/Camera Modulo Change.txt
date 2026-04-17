@@ -1,0 +1,2 @@
+camBopRate = v1
+camBopIntensity = 'v2,'

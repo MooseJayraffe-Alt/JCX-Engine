@@ -1,0 +1,10 @@
+function onCreate()
+makeLuaText('port', "Port by Marcelo Gamer Oficial", 0, 0, 0)
+setTextSize('port', 20)
+setProperty('port.y', 0)
+setProperty('port.x', 0)
+setTextFont('port', 'SuperMario256.ttf')
+setObjectCamera('port','camOther')
+setProperty('port.alpha',0.3)
+addLuaText('port',true)
+end

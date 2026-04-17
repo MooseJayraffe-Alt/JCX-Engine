@@ -1,0 +1,1271 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"false,4,CLASSIC,In"
+					]
+				]
+			],
+			[
+				34461.5384615385,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"true,16,circ,InOut"
+					]
+				]
+			],
+			[
+				34769.2307692308,
+				[
+					[
+						"Play Animation",
+						"intro",
+						"bf"
+					]
+				]
+			],
+			[
+				35692.3076923077,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"true,4,CLASSIC,In"
+					],
+					[
+						"Play Animation",
+						"intro",
+						"dad"
+					]
+				]
+			],
+			[
+				41846.1538461538,
+				[
+					[
+						"Camera Movement",
+						"2",
+						"true,4,CLASSIC,In"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,12,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				61538.4615384615,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"true,16,circ,InOut"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.4,camGame,16,circ,InOut,direct,false"
+					]
+				]
+			],
+			[
+				62153.8461538461,
+				[
+					[
+						"Camera Flash",
+						"false",
+						"FF000E,camGame"
+					],
+					[
+						"Camera Modulo Change",
+						"1",
+						"1,BEAT,0"
+					]
+				]
+			],
+			[
+				71384.6153846154,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"true,4,CLASSIC,In"
+					]
+				]
+			],
+			[
+				81230.7692307692,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"true,4,CLASSIC,In"
+					]
+				]
+			],
+			[
+				83692.3076923077,
+				[
+					[
+						"Camera Movement",
+						"2",
+						"true,12,expo,Out"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,12,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				86153.8461538462,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"true,8,expo,Out"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.4,camGame,8,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				91538.4615384615,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				92307.6923076923,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				92923.0769230769,
+				[
+					[
+						"Camera Movement",
+						"2",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				93538.4615384615,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				94000,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				94615.3846153846,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				95230.7692307692,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				96461.5384615385,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				97230.7692307692,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				97692.3076923077,
+				[
+					[
+						"Camera Movement",
+						"2",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				98461.5384615385,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				98923.0769230769,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				99538.4615384615,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				100153.846153846,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"false,4,INSTANT,In"
+					]
+				]
+			],
+			[
+				100923.076923077,
+				[
+					[
+						"Camera Flash",
+						"false",
+						"FF000E,8,camGame"
+					]
+				]
+			],
+			[
+				103692.307692308,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"true,4,CLASSIC,In"
+					]
+				]
+			],
+			[
+				105538.461538462,
+				[
+					[
+						"Camera Movement",
+						"2",
+						"true,12,cube,InOut"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,12,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				112615.384615385,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"true,16,circ,InOut"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.4,camGame,16,circ,InOut,direct,false"
+					]
+				]
+			],
+			[
+				118153.846153846,
+				[
+					[
+						"Camera Movement",
+						"2",
+						"true,12,CLASSIC,In"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,12,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				123076.923076923,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"true,4,CLASSIC,In"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.4,camGame,12,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"true,4,CLASSIC,In"
+					]
+				]
+			],
+			[
+				132923.076923077,
+				[
+					[
+						"Camera Modulo Change",
+						"4",
+						"1,BEAT,0"
+					],
+					[
+						"Camera Movement",
+						"2",
+						"true,16,cube,InOut"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,16,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				144615.384615385,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.8,camGame,16,circ,InOut,stage,false"
+					]
+				]
+			],
+			[
+				145846.153846154,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"true,16,cube,InOut"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.6,camGame,16,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				146461.538461538,
+				[
+					[
+						"Play Animation",
+						"lookover",
+						"dad"
+					]
+				]
+			],
+			[
+				147692.307692308,
+				[
+					[
+						"Camera Movement",
+						"2",
+						"true,16,expo,Out"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.8,camGame,16,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				154769.230769231,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"true,16,cube,InOut"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.6,camGame,16,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				164923.076923077,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.4,camGame,16,expo,Out,direct,false"
+					],
+					[
+						"Play Animation",
+						"lookback",
+						"dad"
+					],
+					[
+						"Camera Movement",
+						"2",
+						"true,16,CLASSIC,In"
+					]
+				]
+			],
+			[
+				184000,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,16,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				184615.384615385,
+				[
+					[
+						"Play Animation",
+						"voiceline",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"voiceline",
+						"gf"
+					],
+					[
+						"Play Animation",
+						"voiceline",
+						"bf"
+					],
+					[
+						"Scroll Speed Change",
+						"true",
+						"3.1,4,expo,Out,false"
+					]
+				]
+			],
+			[
+				185615.384615385,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.5,camGame,16,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				186769.230769231,
+				[
+					[
+						"Camera Position",
+						"300",
+						"-100,true,16,cube,InOut,false"
+					]
+				]
+			],
+			[
+				188923.076923077,
+				[
+					[
+						"Camera Position",
+						"500",
+						"-200,true,8,expo,Out,false"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.8,camGame,8,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				190153.846153846,
+				[
+					[
+						"Camera Position",
+						"300",
+						"-200,true,16,expo,Out,false"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.4,camGame,16,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				192307.692307692,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.6,camGame,8,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				192923.076923077,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.8,camGame,8,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				194153.846153846,
+				[
+					[
+						"Camera Position",
+						"500",
+						"-200,true,16,circ,InOut,false"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.5,camGame,16,circ,InOut,direct,false"
+					]
+				]
+			],
+			[
+				195384.615384615,
+				[
+					[
+						"Camera Position",
+						"1500",
+						"200,true,16,CLASSIC,In,false"
+					]
+				]
+			],
+			[
+				196307.692307692,
+				[
+					[
+						"Camera Position",
+						"500",
+						"-200,true,16,cube,InOut,false"
+					]
+				]
+			],
+			[
+				199538.461538462,
+				[
+					[
+						"Camera Position",
+						"1000",
+						"-200,true,16,expo,Out,false"
+					]
+				]
+			],
+			[
+				200307.692307692,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.8,camGame,16,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				203076.923076923,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"1,camGame,8,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				203846.153846154,
+				[
+					[
+						"Alt Animation Toggle",
+						"true",
+						"true"
+					],
+					[
+						"Alt Animation Toggle",
+						"true",
+						"true"
+					]
+				]
+			],
+			[
+				204307.692307692,
+				[
+					[
+						"Change Character",
+						"gf",
+						"rose-shucks-dead"
+					]
+				]
+			],
+			[
+				204000,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,8,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				204923.076923077,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"true,16,cube,InOut"
+					]
+				]
+			],
+			[
+				205538.461538462,
+				[
+					[
+						"Camera Flash",
+						"false",
+						"FF000E,8,camGame"
+					]
+				]
+			],
+			[
+				206461.538461538,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.8,camGame,8,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				207000,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,8,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				208923.076923077,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.8,camGame,8,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				210461.538461538,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,8,cube,InOut,direct,false"
+					],
+					[
+						"Camera Flash",
+						"false",
+						"FF000E,8,camGame"
+					]
+				]
+			],
+			[
+				215384.615384615,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"true,4,CLASSIC,In"
+					]
+				]
+			],
+			[
+				225230.769230769,
+				[
+					[
+						"Camera Movement",
+						"2",
+						"true,4,CLASSIC,In"
+					]
+				]
+			],
+			[
+				236615.384615385,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"true,16,cube,InOut"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.4,camGame,16,cube,InOut,direct,false"
+					]
+				]
+			],
+			[
+				237538.461538462,
+				[
+					[
+						"Camera Flash",
+						"false",
+						"FF000E,4,camHUD"
+					]
+				]
+			],
+			[
+				241846.153846154,
+				[
+					[
+						"Camera Movement",
+						"2",
+						"true,4,CLASSIC,In"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,16,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				263384.615384615,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.4,camGame,4,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				264615.384615385,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.5,camGame,4,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				265846.153846154,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.6,camGame,4,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				266153.846153846,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.7,camGame,4,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				266461.538461538,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.5,camGame,4,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				266769.230769231,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"0.4,camGame,4,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				267076.923076923,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"true,4,CLASSIC,In"
+					],
+					[
+						"Camera Zoom",
+						"true",
+						"0.3,camGame,4,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				269846.153846154,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"true,4,CLASSIC,In"
+					]
+				]
+			],
+			[
+				272000,
+				[
+					[
+						"Camera Movement",
+						"1",
+						"true,4,CLASSIC,In"
+					]
+				]
+			],
+			[
+				276307.692307692,
+				[
+					[
+						"Camera Movement",
+						"0",
+						"true,16,cube,InOut"
+					]
+				]
+			],
+			[
+				276923.076923077,
+				[
+					[
+						"Camera Zoom",
+						"true",
+						"1,camGame,16,expo,Out,direct,false"
+					]
+				]
+			],
+			[
+				279384.615384615,
+				[
+					[
+						"Alt Animation Toggle",
+						"false",
+						"false,0"
+					],
+					[
+						"Alt Animation Toggle",
+						"false",
+						"false,1"
+					]
+				]
+			],
+			[
+				318769.230769231,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				319384.615384615,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				320000,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				320461.538461538,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				320923.076923077,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				321230.769230769,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				321846.153846154,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				322461.538461538,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				322923.076923077,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				323384.615384615,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				323692.307692308,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				324307.692307692,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				324923.076923077,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				325384.615384615,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				326153.846153846,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				326769.230769231,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				327384.615384615,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				327846.153846154,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				328615.384615385,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				329230.769230769,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				329846.153846154,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				330307.692307692,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				330769.230769231,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				331076.923076923,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				331692.307692308,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				332307.692307692,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				333538.461538462,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				334153.846153846,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				334769.230769231,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				335230.769230769,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				335692.307692308,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				336000,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				336615.384615385,
+				[
+					[
+						"Camera Bop",
+						"0.3",
+						""
+					]
+				]
+			]
+		]
+	}
+}

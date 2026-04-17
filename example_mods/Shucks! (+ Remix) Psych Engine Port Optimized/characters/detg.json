@@ -1,0 +1,179 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				890,
+				-25
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "l",
+			"indices": []
+		},
+		{
+			"offsets": [
+				890,
+				-25
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "altl",
+			"indices": []
+		},
+		{
+			"offsets": [
+				255,
+				-780
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "d",
+			"indices": []
+		},
+		{
+			"offsets": [
+				255,
+				-780
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "altd",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1250,
+				-85
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "u",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1250,
+				-85
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "altu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1025,
+				-50
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "r",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1025,
+				-50
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "altr",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				14
+			],
+			"loop": true,
+			"anim": "idle",
+			"fps": 24,
+			"name": "i",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				14
+			],
+			"loop": true,
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "alti",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				15
+			],
+			"loop": true,
+			"anim": "lookback",
+			"fps": 24,
+			"name": "back",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				14
+			],
+			"loop": false,
+			"anim": "lookover",
+			"fps": 24,
+			"name": "over",
+			"indices": []
+		},
+		{
+			"offsets": [
+				363,
+				1501
+			],
+			"loop": false,
+			"anim": "intro",
+			"fps": 30,
+			"name": "hellohottie",
+			"indices": []
+		},
+		{
+			"offsets": [
+				214,
+				216
+			],
+			"loop": false,
+			"anim": "voiceline",
+			"fps": 24,
+			"name": "voiceline",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/detg",
+	"position": [
+		-110,
+		-230
+	],
+	"healthicon": "detg",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		100,
+		0
+	],
+	"camera_position": [
+		400,
+		600
+	],
+	"sing_duration": 6.1,
+	"scale": 2.4,
+	"_editor_isPlayer": false
+}

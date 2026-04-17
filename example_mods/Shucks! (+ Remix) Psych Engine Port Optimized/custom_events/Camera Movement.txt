@@ -1,0 +1,7 @@
+value1
+0 = dad
+1 = bf
+2 = gf
+
+value2
+tween,duration,tweenType,tweenType2
