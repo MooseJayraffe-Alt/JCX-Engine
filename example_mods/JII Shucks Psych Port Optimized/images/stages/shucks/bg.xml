@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="chain00000" x="1358" y="754" width="489" height="125" frameX="-573" frameY="-51" frameWidth="1353" frameHeight="750"/>
+	<SubTexture name="extralight00000" x="701" y="1150" width="874" height="73" frameX="-227" frameY="-75" frameWidth="1348" frameHeight="745"/>
+	<SubTexture name="glow00000" x="0" y="470" width="1358" height="470" frameX="2" frameY="2" frameWidth="1354" frameHeight="750"/>
+	<SubTexture name="glow10000" x="0" y="0" width="1358" height="470" frameX="2" frameY="2" frameWidth="1354" frameHeight="750"/>
+	<SubTexture name="glow20000" x="0" y="940" width="701" height="567" frameX="-335" frameY="2" frameWidth="1353" frameHeight="750"/>
+	<SubTexture name="hook00000" x="1358" y="0" width="828" height="754" frameX="-285" frameY="2" frameWidth="1353" frameHeight="750"/>
+	<SubTexture name="light00000" x="1608" y="940" width="40" height="148" frameX="-665" frameY="-97" frameWidth="1353" frameHeight="750"/>
+	<SubTexture name="lightbase00000" x="1847" y="754" width="20" height="12" frameX="-675" frameY="-91" frameWidth="1353" frameHeight="750"/>
+	<SubTexture name="shit00000" x="701" y="940" width="760" height="210" frameX="2" frameY="-338" frameWidth="1500" frameHeight="546"/>
+	<SubTexture name="wire00000" x="1461" y="940" width="147" height="191" frameX="-377" frameY="-357" frameWidth="1500" frameHeight="546"/>
+</TextureAtlas>

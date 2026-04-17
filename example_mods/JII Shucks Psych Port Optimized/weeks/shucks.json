@@ -1,0 +1,26 @@
+{
+  "storyName": "Shucks Demo",
+  "hideFreeplay": false,
+  "weekBackground": "",
+  "weekBefore": "",
+  "difficulties": "Normal",
+  "startUnlocked": true,
+  "weekCharacters": [
+    "",
+    "",
+    ""
+  ],
+  "songs": [
+    [
+      "shucks",
+      "detg",
+      [
+        190,
+        94,
+        43
+      ]
+    ]
+  ],
+  "hideStoryMode": false,
+  "weekName": "shucks"
+}
